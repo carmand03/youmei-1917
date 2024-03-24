@@ -1,0 +1,195 @@
+﻿DocId;name_eng;situation;prefix;position_source;Institution;sublevel;category_main;category;city;province;Hypoth_year;StartYear;Start_Month;EndYear;position_level;position_category
+imh-11-1;Tyau, Edward S;PRE-US;;House Physician;St. Luke's Hospital;;facility;facility: health;Shanghai;Jiangsu;1908;1908;;1910;Mid-level;other
+imh-11-1;Tyau, Edward S;PRE-US;;Chief Physician;Geldenhui Hospital;;facility;facility: health;Transvaal;South Africa;1910;1910;;1912;Senior;other
+imh-11-100;Chow, Lun-Yuen;PRE-US;;Agent;Standard Oil Company;;business;business: company;Shanghai;Jiangsu;1907;1907;;;Mid-level;technical
+imh-11-100;Chow, Lun-Yuen;PRE-US;;Teacher;Ningpo Middle School;;education;education: secondary;Ningbo;Zhejiang;1910;1910;;;Mid-level;academic
+imh-11-103;Tsur, Ye-Tsung;PRE-US;;Assistant;St. John's University;;education;education: higher;Shanghai;Jiangsu;1901;1901;;1907;Junior;academic
+imh-11-103;Tsur, Ye-Tsung;PRE-US;;Instructor;St. John's University;;education;education: higher;Shanghai;Jiangsu;1904;1901;;1907;Junior;academic
+imh-11-107;Lin, Kyan-Zung;PRE-US;;Teacher of English;St. John's University;;education;education: higher;Shanghai;Jiangsu;1909;1909;;1911;Mid-level;academic
+imh-11-109;Ling, Tsoerun Lee;PRE-US;;Teacher;William Nast College;;education;education: higher;Jiujiang;Jiangxi;1904;1904;;1907;Mid-level;academic
+imh-11-110;Yeh, Ting Shien;PRE-US;;Instructor;Li Kiang School;;education;education: secondary;Pingxiang;Jiangxi;1907;1907;;;Junior;academic
+imh-11-111;Hu, C. P.;PRE-US;;Teacher;Chinkiang School;;education;education: secondary;Zhenjiang;Jiangsu;1893;1893;;1899;Mid-level;academic
+imh-11-112;Hu, Chang-Ho;PRE-US;;Teacher;William Nast College;;education;education: higher;Jiujiang;Jiangxi;1894;1894;;1904;Mid-level;academic
+imh-11-112;Hu, Chang-Ho;PRE-US;;Principal;First Min-Li School;;education;education: secondary;Jiujiang;Jiangxi;1906;1906;;1910;Senior;academic
+imh-11-116;Hu, Theodore C.;PRE-US;;Draftsman;Hongkong Dockyard;;industry;industry: dockyard;Hongkong;Hongkong;1899;1899;;1900;Mid-level;technical
+imh-11-117;Hu, Thomas Mei;PRE-US;;Teacher;Anglo-Chinese College (Shanghai);;education;education: higher;Shanghai;Jiangsu;1898;1898;;1899;Mid-level;academic
+imh-11-118;Hu, Wenfu Yiko;PRE-US;;Librarian;St. John's University;;education;education: higher;Shanghai;Jiangsu;1897;1897;;1899;Mid-level;academic
+imh-11-118;Hu, Wenfu Yiko;PRE-US;;Instructor in English;Nanyang College;;education;education: higher;Shanghai;Jiangsu;1899;1899;;1906;Junior;academic
+imh-11-122;Key. Da Yong;PRE-US;;Teacher;Lu Kia Hui Middle School;;education;education: secondary;Shanghai;Jiangsu;1909;1909;;;Mid-level;academic
+imh-11-13;Wang, Kan-Ho;PRE-US;;Teacher;Anglo-Chinese College (Fuzhou);;education;education: higher;Fuzhou;Fujian;1906;1906;;1909;Mid-level;academic
+imh-11-133;Yui, C. Voonping;PRE-US;;House Physician;St. Luke's Hospital;;facility;facility: health;Shanghai;Jiangsu;1906;1906;;1908;Mid-level;other
+imh-11-133;Yui, C. Voonping;PRE-US;House;House Surgeon;St. Luke's Hospital;;facility;facility: health;Shanghai;Jiangsu;1908;1908;;1909;Mid-level;other
+imh-11-133;Yui, C. Voonping;PRE-US;;Physician;Nanyang College;;education;education: higher;Shanghai;Jiangsu;1909;1909;;1911;Mid-level;other
+imh-11-137;Hsu, Mongton;PRE-US;;Correspondent;Peking Daily News;;media;media: daily;Beijing;Hebei;1908;1908;;1909;Mid-level;other
+imh-11-146;Zee, Zai-Ziang;PRE-US;;Teacher of English;Nanyang High School;;education;education: secondary;Shanghai;Jiangsu;1904;1904;;1906;Mid-level;academic
+imh-11-150;Hou, Ching-Fei;PRE-US;;Director;Nanking Educational Commission;Technical Department;administration;administration: commission;Nanjing;Jiangsu;1907;1907;;1909;Executive;managerial
+imh-11-153;Kao, L. K.;PRE-US;;Interpreter;American Consulate;;government;government: foreign;Nanjing;Jiangsu;1907;1907;;1909;Mid-level;administrative
+imh-11-153;Kao, L. K.;PRE-US;;Instructor;Nanking Military Academy;;education;education: military;Nanjing;Jiangsu;1909;1909;;1909;Junior;academic
+imh-11-154;Kuei, C. H;PRE-US;;Teacher;Peking Banking College;;education;education: higher;Beijing;Hebei;1907;1907;;1909;Mid-level;academic
+imh-11-158;Liang, Foo-Tso;PRE-US;Student;Student Attaché;Ministry of Foreign Affairs;Chinese Legation in Germany;government;government: abroad;Berlin;Germany;1909;1909;;1910;Student;administrative
+imh-11-164;Nie, Sih-Zung;PRE-US;;Teacher of Mathematics;St. John's University;;education;education: higher;Shanghai;Jiangsu;1899;1899;;1900;Mid-level;academic
+imh-11-164;Nie, Sih-Zung;PRE-US;;Interpreter;Fou Foong Mill;;industry;industry: factory;;;1901;1901;;1904;Mid-level;administrative
+imh-11-164;Nie, Sih-Zung;PRE-US;;Teacher of English;Nanking Industrial College;;education;education: higher;Nanjing;Jiangsu;1904;1904;;1907;Mid-level;academic
+imh-11-165;Nyi, Zau-Tsung;PRE-US;;Teacher;Anglo-Chinese College (Tianjin);;education;education: higher;Tianjin;Hebei;1903;1903;;1906;Mid-level;academic
+imh-11-165;Nyi, Zau-Tsung;PRE-US;;Director;Anglo-Chinese College (Tianjin);;education;education: higher;Tianjin;Hebei;1904;1903;;1906;Executive;academic
+imh-11-165;Nyi, Zau-Tsung;PRE-US;;Department Head;Wu-Bun Girls' School;English Department;education;education: girls;Shanghai;Jiangsu;1906;1906;;1911;Executive;academic
+imh-11-165;Nyi, Zau-Tsung;PRE-US;;Director;Nanyang Middle School;English Department;education;education: secondary;Shanghai;Jiangsu;1907;1906;;1911;Executive;academic
+imh-11-165;Nyi, Zau-Tsung;PRE-US;;Instructor in Chinese;Columbia University;;education;education: higher;New York;United States;1913;1913;;1914;Junior;academic
+imh-11-166;Ma, K. S;PRE-US;;Instructor;St. John's University;;education;education: higher;Shanghai;Jiangsu;1908;1908;;1909;Junior;academic
+imh-11-166;Ma, K. S;PRE-US;;Instructor;Sungkiang Middle School;;education;education: secondary;Songjiang;Jiangsu;1909;1909;;1910;Junior;academic
+imh-11-170;Sun Hyien-Way;PRE-US;;Teacher of English;Chekiang Provincial College;;education;education: higher;Hangzhou;Zhejiang;1906;1906;;1909;Mid-level;academic
+imh-11-170;Sun Hyien-Way;PRE-US;;Teacher in English;Anding Academy;;education;education: higher;Anding;;1907;1906;;1909;Mid-level;academic
+imh-11-170;Sun Hyien-Way;PRE-US;;Teacher in English;Kin Chu Yen Public School;;education;education: secondary;;;1908;1906;;1909;Mid-level;academic
+imh-11-176;Sung, Vong-Tsung;PRE-US;;Teacher;Davidson School;;education;education: secondary;Suzhou;Jiangsu;1910;1910;;;Mid-level;academic
+imh-11-177;Tong, En-Liang;PRE-US;Assistant;Assistant Instructor in English and Mathematics;Shantung Provincial College;;education;education: higher;;Shandong;1911;1911;;1912;Junior;academic
+imh-11-19;Wong, John;PRE-US;;Instructor;Tientsin Industrial College;;education;education: vocational;Tianjin;Hebei;1908;1908;;1909;Junior;academic
+imh-11-193;Chen, Chin-Tao;PRE-US;;Professor;Peiyang University;;education;education: higher;Tianjin;Hebei;1901;1901;;;Senior;academic
+imh-11-194;Chen, Huan-chang;PRE-US;;Teacher;Shih-Min High School;;education;education: secondary;Guangzhou;Guangdong;1902;1902;;;Mid-level;academic
+imh-11-194;Chen, Huan-chang;PRE-US;;Principal;Shih-Min High School;;education;education: secondary;Guangzhou;Guangdong;1903;1903;;;Executive;academic
+imh-11-197;Chen, Kwang-Pu;PRE-US;;Delegate;Hupeh Provincial Government;St. Louis Exposition;event;event: conference;St. Louis;United States;1904;1904;;;Mid-level;representative
+imh-11-2;Bien, Fu-Sun;PRE-US;;Judge;Peking Municipal Court;;judiciary;judiciary: local;Beijing;Hebei;1908;1908;;1911;Senior;official
+imh-11-2;Bien, Fu-Sun;PRE-US;;Collector;Fungtai Branch Revenue Office;;administration;administration: local;Fengtai;Hebei;1909;1909;;1911;Mid-level;technical
+imh-11-20;Wong, Perry;PRE-US;;Instructor;Chengtu High School;;education;education: secondary;Chengdu;Sichuan;1904;1904;;1908;Junior;academic
+imh-11-20;Wong, Perry;PRE-US;;Instructor;Chihli Technical College;;education;education: technical;Tianjin;Hebei;1904;1904;;1908;Junior;academic
+imh-11-200;Chen, Shih Ti;PRE-US;;Instructor in English;Cheking Provincial College;;education;education: higher;Hangzhou;Zhejiang;1899;1899;;1900;Junior;academic
+imh-11-200;Chen, Shih Ti;PRE-US;;Teacher;Chekiang Provincial College;;education;education: higher;Hangzhou;Zhejiang;1905;1905;;1907;Mid-level;academic
+imh-11-203;Chen, Tsaihsin;PRE-US;;Teacher;Peking Methodist University;;education;education: higher;Beijing;Hebei;1901;1901;;1909;Mid-level;academic
+imh-11-209;Tsen, Archie Tsung-Liang;PRE-US;;Editor;Boone Chronicle;;media;media: periodical;Wuchang;Hubei;1901;1901;;1911;Mid-level;other
+imh-11-209;Tsen, Archie Tsung-Liang;PRE-US;;Teacher;Boone School;;education;education: secondary;Wuchang;Hubei;1902;1902;;1906;Mid-level;academic
+imh-11-209;Tsen, Archie Tsung-Liang;PRE-US;Chief;Editor-in-Chief;Boone Chronicle;;media;media: periodical;Wuchang;Hubei;1905;1901;;1911;Senior;other
+imh-11-209;Tsen, Archie Tsung-Liang;PRE-US;;Faculty member;Boone College;;education;education: higher;Wuchang;Hubei;1906;1906;;1911;Mid-level;academic
+imh-11-209;Tsen, Archie Tsung-Liang;PRE-US;;Manager;Boone Educational World;;media;media: periodical;Wuchang;Hubei;1906;1906;;;Mid-level;other
+imh-11-210;Ts'en, Mong-Kang;PRE-US;;Teacher;Kwang-Yee Middle School;;education;education: secondary;Chongqing;Sichuan;1907;1907;;1908;Mid-level;academic
+imh-11-213;Zung, Singung;PRE-US;;Instructor in English;International Institute;;other;other: institute;Shanghai;Jiangsu;1903;1903;;1904;Junior;academic
+imh-11-221;Chang, Paul Hua;PRE-US;;Teacher;Hsuchow Middle School;;education;education: secondary;Xuzhou;Jiangsu;1904;1904;;1908;Mid-level;academic
+imh-11-226;Chang, Tsun;PRE-US;;Teacher;Tzu-Kiang Grammar School;;education;education: secondary;;Hubei;1909;1909;;;Mid-level;academic
+imh-11-228;Chang, T. Z.;PRE-US;;Teacher of English;Huchow Public Middle School;;education;education: secondary;Huzhou;Zhejiang;1906;1906;;1908;Mid-level;academic
+imh-11-230;Djang, Yuan-Shan;PRE-US;;Correspondent;Pacific News (The);;media;media: daily;Shanghai;Jiangsu;1911;1911;;;Mid-level;other
+imh-11-230;Djang, Yuan-Shan;PRE-US;;Chemist;Chihli Industrial Chemistry Laboratory;;industry;industry: laboratory;Tianjin;Hebei;1915;1915;;;Mid-level;technical
+imh-11-234;Kuo, Ping-Wen;PRE-US;;Instructor;Lowrie Institute;;education;education: higher;Hangzhou;Zhejiang;1896;;;1897;Junior;academic
+imh-11-234;Kuo, Ping-Wen;PRE-US;;Officer;Hangzhou Customs;;administration;administration: local;Hangzhou;Zhejiang;1897;1897;;1906;Mid-level;administrative
+imh-11-234;Kuo, Ping-Wen;PRE-US;;Officer;Kashing Customs;;administration;administration: local;Kashing;Zhejiang;1897;1897;;1906;Mid-level;administrative
+imh-11-234;Kuo, Ping-Wen;PRE-US;;Officer;Shanghai Maritime Customs;;administration;administration: local;Shanghai;Jiangsu;1897;1897;;1906;Mid-level;administrative
+imh-11-236;Kwauk, Jean-Shaw;PRE-US;;Teacher;Shih-Min High School;;education;education: secondary;Guangzhou;Guangdong;1903;1903;;1904;Mid-level;academic
+imh-11-236;Kwauk, Jean-Shaw;PRE-US;;Teacher;Hung Dou College;;education;education: higher;;Shaanxi;1906;1906;;1907;Mid-level;academic
+imh-11-24;Sze, Vong-Pau;PRE-US;;Teacher;McTyeire School;;education;education: girls;Shanghai;Jiangsu;1900;1900;;1902;Mid-level;academic
+imh-11-24;Sze, Vong-Pau;PRE-US;;Teacher;Laura Hay Good Memorial School;;education;education: secondary;Shanghai;Jiangsu;1903;1903;;1904;Mid-level;academic
+imh-11-24;Sze, Vong-Pau;PRE-US;Assistant;Assistant Principal;Anti-Footbinding School;;education;education: secondary;Shanghai;Jiangsu;1904;1904;;1905;Junior;academic
+imh-11-240;Huang, Ai-Yu;PRE-US;Assistant;Assistant Hydraulic Engineer;Canton Department of Public Works;;administration;administration: local;Guangzhou;Guangdong;1912;1912;;;Junior;technical
+imh-11-245;Hwang, Yung-Liang;PRE-US;;Teacher;University of Nanking;;education;education: higher;Nanjing;Jiangsu;1896;1896;;1897;Mid-level;academic
+imh-11-245;Hwang, Yung-Liang;PRE-US;;Dean;University of Nanking;;education;education: higher;Nanjing;Jiangsu;1897;1897;;1899;Executive;academic
+imh-11-246;Hwang, Yung-Liang;PRE-US;;Teacher;Kiukiang Girls' High School;;education;education: girls;Jiujiang;Jiangxi;1895;1895;;;Mid-level;academic
+imh-11-25;Sze, Vong-Tsu;PRE-US;;Teacher of Music;McTyeire School;;education;education: girls;Shanghai;Jiangsu;1905;1905;;1907;Mid-level;academic
+imh-11-251;Wong, Kai-Ming;PRE-US;;Instructor;Canton Christian College;;education;education: higher;Guangzhou;Guangdong;1910;1910;;1911;Junior;academic
+imh-11-26;Cheng, Gung-Yi;PRE-US;Assistant;Assistant Instructor;Nanking Christian College;;education;education: higher;Nanjing;Jiangsu;1907;1907;;1909;Junior;academic
+imh-11-26;Cheng, Gung-Yi;PRE-US;Assistant;Assistant Editor;Yang Tse Kiang Monthly;;media;media: periodical;Nanjing;Jiangsu;1909;1909;;;Junior;other
+imh-11-263;Loh, Tachuan S. K.;PRE-US;;Editor;Shun Pao;;media;media: daily;;;1903;1903;;1905;Mid-level;other
+imh-11-263;Loh, Tachuan S. K.;PRE-US;Assistant;Assistant Editor;Commercial Press;;business;business: company;Shanghai;Jiangsu;1904;1904;;1905;Junior;other
+imh-11-263;Loh, Tachuan S. K.;PRE-US;;Instructor;Changsha School;;education;education: secondary;Shanghai;Jiangsu;1905;1905;;1908;Junior;academic
+imh-11-265;Low, Hung-Tang;PRE-US;;Teacher in English;Ye-Chih School;;education;education: secondary;Shanghai;Jiangsu;1891;1891;;;Mid-level;academic
+imh-11-266;Lu, Mau-Deh;PRE-US;;Principal;Tsinan Provincial Middle School;;education;education: secondary;Jinan;Shandong;1906;1906;;1909;Executive;academic
+imh-11-276;Tsao Yun-Siang;PRE-US;Assistant;Assistant Instructor;St. John's University;;education;education: higher;Shanghai;Jiangsu;1900;1900;;1903;Junior;academic
+imh-11-276;Tsao Yun-Siang;PRE-US;;Dean;Fu-Yang Middle School;;education;education: secondary;Changzhou;Jiangsu;1904;1904;;1905;Executive;academic
+imh-11-276;Tsao Yun-Siang;PRE-US;;Dean;Ih-Cu Middle School;;education;education: secondary;Ningbo;Zhejiang;1905;1907;;1907;Executive;academic
+imh-11-276;Tsao Yun-Siang;PRE-US;;Editor;Nan-Fang-Pao;;media;media: daily;Shanghai;Jiangsu;1906;1906;;;Mid-level;other
+imh-11-28;Chu, Chimin Fuh;PRE-US;;Unknown;Soochow University;;education;education: higher;;;1904;1904;;1906;;academic
+imh-11-28;Chu, Chimin Fuh;PRE-US;;Teacher;Yuan Chow Middle School;;education;education: secondary;Yuanzhou;Hunan;1906;1906;;;Mid-level;academic
+imh-11-28;Chu, Chimin Fuh;PRE-US;;Teacher;Teh-Shan School;;education;education: secondary;Yuanzhou;Hunan;1907;1906;;;Mid-level;academic
+imh-11-285;Fei, Chi-Hao;PRE-US;;Teacher;Tai-Kuo Middle School;;education;education: secondary;Taiguo;Shanxi;1898;1898;;1899;Mid-level;academic
+imh-11-285;Fei, Chi-Hao;PRE-US;;Teacher;Fen-Chow Middle School;;education;education: secondary;Fenzhou;Shanxi;1899;1899;;1900;Mid-level;academic
+imh-11-286;Fei, H. J.;PRE-US;;Teacher;Tientsin Y.M.C.A. School;;education;education: secondary;Tianjin;Hebei;1908;1908;;1909;Mid-level;academic
+imh-11-296;Wen, Ying-Hsing;PRE-US;;Student Engineer;Canton-Hankow Railway;;railway;railway: China;;Guangdong;1903;1903;;1904;Student;technical
+imh-11-308;Yang, N. C.;PRE-US;;Teacher;Ad Astra School;;education;education: secondary;Wuchang;Hubei;1902;1902;;1903;Mid-level;academic
+imh-11-308;Yang, N. C.;PRE-US;;Translator;Hupeh Translation Department;;administration;administration: local;Wuchang;Hubei;1903;1902;;1903;Mid-level;administrative
+imh-11-309;Yang, Pao-Ling;PRE-US;;Teacher in Arithmetic;Cheng-Chih School;;education;education: secondary;Zhenjiang;Jiangsu;1906;1906;;;Mid-level;academic
+imh-11-315;Young, Edward B.;PRE-US;;Teacher;St. Elizabeth's Mission School;;education;education: missionary;Honolulu;Hawaii;1904;1904;;1905;Mid-level;academic
+imh-11-318;Chao, Guok-Tsai;PRE-US;;English Secretary;Tao-Tai of Fung-Yang;;administration;administration: local;Fengyang;Anhui;1906;1906;;1907;Mid-level;administrative
+imh-11-327;Yih, Koliang;PRE-US;;Instructor;Foochow College;;education;education: higher;Fuzhou;Fujian;1902;1902;;1904;Junior;academic
+imh-11-327;Yih, Koliang;PRE-US;;Interpreter;Foochow Bureau of Foreign Affairs;;administration;administration: local;Fuzhou;Fujian;1903;1902;;1904;Mid-level;administrative
+imh-11-350;Pan, Wen-Huan;PRE-US;;Teacher;Fukien School;;education;education: secondary;Beijing;Hebei;1910;1910;;;Mid-level;academic
+imh-11-350;Pan, Wen-Huan;PRE-US;;Teacher;Nanyang Middle School;;education;education: secondary;Shanghai;Jiangsu;1911;1911;;;Mid-level;academic
+imh-11-350;Pan, Wen-Huan;PRE-US;English;English Secretary;Tsing Hua College;;education;education: higher;Beijing;Hebei;1912;1912;;;Mid-level;academic
+imh-11-354;Lo, King-Tai;PRE-US;;Instructor;Canton Christian College;;education;education: higher;Guangzhou;Guangdong;1908;1908;;1909;Junior;academic
+imh-11-356;Moh, H. Y;PRE-US;;Director;Loong Men Normal School;;education;education: normal;Shanghai;Jiangsu;1906;1906;;;Executive;academic
+imh-11-356;Moh, H. Y;PRE-US;;Superintendent of Police;Kiangsu Railway Company;;railway;railway: China;Shanghai;Jiangsu;1907;1907;;1908;Senior;managerial
+imh-11-357;Sen, Janshi;PRE-US;;Teacher;Kweiyang Teachers' College;;education;education: higher;Guiyang;Guizhou;1909;1909;;;Mid-level;academic
+imh-11-358;Chung, C. P.;PRE-US;;Teacher;Hongkong Baptist School;;education;education: secondary;Hongkong;Hongkong;1905;1905;;1906;Mid-level;academic
+imh-11-362;Chung, Wen-Pang;PRE-US;;Surgeon;Tientsin Army;;military;military: Chinese;Tianjin;Hebei;1898;1898;;1902;Mid-level;military
+imh-11-362;Chung, Wen-Pang;PRE-US;;Instructor;Tientsin Army Medical College;;education;education: military;Tianjin;Hebei;1902;1902;;1903;Junior;academic
+imh-11-362;Chung, Wen-Pang;PRE-US;Chief;Chief Medical Officer;Nanking Hospital;;facility;facility: health;Nanjing;Jiangsu;1908;1908;;1909;Senior;other
+imh-11-362;Chung, Wen-Pang;PRE-US;Chief;Chief Medical Officer;Tsinan Hospital;;facility;facility: health;Jinan;Shandong;1908;1908;;1909;Senior;other
+imh-11-362;Chung, Wen-Pang;PRE-US;Chief;Director;Canton Army Hospital;;military;military: Chinese;Guangzhou;Guangdong;1908;1908;;1909;Executive;military
+imh-11-365;Khong, Loy;PRE-US;Assistant;Assistant Master;Victoria Institute;;education;education: higher;Kwala Lumpur;Malaysia;1905;1905;;1906;Junior;academic
+imh-11-365;Khong, Loy;PRE-US;Assistant;Assistant Master;Anglo-Chinese School;;education;education: secondary;Ipoh;Malaysia;1906;1906;;1907;Junior;academic
+imh-11-365;Khong, Loy;PRE-US;Assistant;Assistant Master;Chuen Hung School;;education;education: secondary;Kwala Lumpur;Malaysia;1907;1907;;1909;Junior;academic
+imh-11-366;Kuang, Ying-Chieh;PRE-US;;Academician;Hanlin Academy;;education;education: higher;Beijing;Hebei;1911;1911;;;Senior;academic
+imh-11-370;Shae, Shaoying;PRE-US;;Instructor;Zungchow High School;;education;education: secondary;;;1903;1903;;1905;Junior;academic
+imh-11-370;Shae, Shaoying;PRE-US;;Attaché;Imperial Commission to Europe and America;;administration;administration: commission;;United States;1905;1905;;;Junior;administrative
+imh-11-371;Tse, Tsok-Kai;PRE-US;;Teacher;Sacred Heart College;;education;education: higher;Hongkong;Hongkong;1904;1904;;;Mid-level;academic
+imh-11-374;Han, Ngan;PRE-US;;Teacher;University of Nanking;;education;education: higher;Nanjing;Jiangsu;1905;1905;;1907;Mid-level;academic
+imh-11-378;Wei Wen-Pin;PRE-US;;Instructor;Peking Methodist University;;education;education: higher;Beijing;Hebei;1908;1908;;1909;Junior;academic
+imh-11-38;Chu, V. G;PRE-US;;Editor;Sin Wen Pao;;media;media: daily;Shanghai;Jiangsu;1906;1906;;1909;Mid-level;other
+imh-11-383;Kwan, Yan-Cho;PRE-US;;Instructor in English;Canton Christian College;;education;education: higher;Guangzhou;Guangdong;1906;1906;;;Junior;academic
+imh-11-384;Lo, Chienho Chungchen;PRE-US;;Teacher;Kwang Ping Middle School;;education;education: secondary;Guangping;Hebei;1903;1903;;1904;Mid-level;academic
+imh-11-384;Lo, Chienho Chungchen;PRE-US;;Teacher;Chihli Provincial College;;education;education: higher;Baoding;Hebei;1904;1904;;1906;Mid-level;academic
+imh-11-385;Lo, Pan K.;PRE-US;;Teacher;Queen's College;;education;education: higher;Hongkong;Hongkong;1899;1899;;1900;Mid-level;academic
+imh-11-385;Lo, Pan K.;PRE-US;Assistant;Assistant Master;Queen's College;;education;education: higher;Hongkong;Hongkong;1900;1900;;1903;Junior;academic
+imh-11-385;Lo, Pan K.;PRE-US;;Instructor in English and Mathematics;Peiyang University;;education;education: higher;Tianjin;Hebei;1903;1903;;1906;Junior;academic
+imh-11-386;Lo, Ren-Yen;PRE-US;;Teacher;Kiukiang First School;;education;education: secondary;Jiujiang;Jiangxi;1906;1906;;1907;Mid-level;academic
+imh-11-386;Lo, Ren-Yen;PRE-US;;Teacher;Wen-Hua School;;education;education: secondary;Jiujiang;Jiangxi;1907;1906;;1907;Mid-level;academic
+imh-11-386;Lo, Ren-Yen;PRE-US;;Teacher;The-Hua School;;education;education: secondary;Jiujiang;Jiangxi;1908;1907;;1909;Mid-level;academic
+imh-11-387;Loo, Wai-Gyiao;PRE-US;;Instructor;Ningpo High School;;education;education: secondary;Ningbo;Zhejiang;1907;1907;;1908;Junior;academic
+imh-11-390;Tang, John Fu;PRE-US;Assistant;Assistant Teacher;William Nast College;;education;education: higher;Jiujiang;Jiangxi;1905;1905;;1907;Junior;academic
+imh-11-390;Tang, John Fu;PRE-US;;Teacher in English;Kiukiang Government Middle School;;government;government: local;Jiujiang;Jiangxi;1906;1906;;1907;Mid-level;academic
+imh-11-392;Tam, W. Way;PRE-US;;Translator and Reporter;Hawaiian Chinese News;;media;media: periodical;Honolulu;Hawaii;1902;1902;;1905;Mid-level;other
+imh-11-393;Yen, Chia-Cheow;PRE-US;;Teacher;Yung-Ping Government Middle School;;education;education: secondary;Yongping;Hebei;1905;1905;;1906;Mid-level;academic
+imh-11-393;Yen, Chia-Cheow;PRE-US;;Teacher;Anhui Provincial College;;education;education: higher;Anqing;Anhui;1906;1906;;1907;Mid-level;academic
+imh-11-393;Yen, Chia-Cheow;PRE-US;;Teacher;Kiangsi Provincial College;;education;education: higher;;Jiangxi;1907;1907;;1909;Mid-level;academic
+imh-11-394;Yen, Fengcheng;PRE-US;;Managing Editor;Honolulu Chinese Times;;media;media: daily;Honolulu;Hawaii;1903;1903;;;Executive;other
+imh-11-395;Yen, Hawkling;PRE-US;;Instructor;St. John's University;;education;education: higher;Shanghai;Jiangsu;1903;1903;;1906;Junior;academic
+imh-11-395;Yen, Hawkling;PRE-US;;Teacher;Fu Tan College;;education;education: higher;Shanghai;Jiangsu;1907;1907;;1908;Mid-level;academic
+imh-11-398;Koo, V. Tsing;PRE-US;;Teacher in English and Arithmetic;Several Shanghai schools;;education;education: secondary;Shanghai;Jiangsu;1906;1906;;1908;Mid-level;academic
+imh-11-399;Ku, Tsong-Lin;PRE-US;;Instructor;Tientsin Polytechnic Institute;;education;education: technical;Tianjin;Hebei;1910;1910;;1911;Junior;academic
+imh-11-42;Tsu, Yu-Yue;PRE-US;;Instructor;St. John's University;;education;education: higher;Shanghai;Jiangsu;1907;;;1909;Junior;academic
+imh-11-43;Chüan, S. H.;PRE-US;;Medical Officer;India and Tibet Mission;;other;other: mission;;India;1905;1905;;1907;Mid-level;other
+imh-11-43;Chüan, S. H.;PRE-US;;Professor;Peiyang Medical College;;education;education: higher;Tianjin;Hebei;1907;1907;;;Senior;academic
+imh-11-43;Chüan, S. H.;PRE-US;;Senior Medical Officer;Plague Campaign in Manchuria;;event;event: campaign;;;1910;1910;;;Senior;consulting
+imh-11-44;Ju, Jên-Hao;PRE-US;;Teacher;Yichow Middle School;;education;education: secondary;Yizhou;Zhili;1903;1903;;1907;Mid-level;academic
+imh-11-50;Ho, Kim-Tong;PRE-US;Assistant;Assistant Manager;Oahuan;;business;business: company;Honolulu;Hawaii;1906;1906;;1907;Junior;managerial
+imh-11-51;Ho, Lin-Yi;PRE-US;;Librarian;St. John's University;;education;education: higher;Shanghai;Jiangsu;1907;1907;;1908;Mid-level;academic
+imh-11-51;Ho, Lin-Yi;PRE-US;;Instructor;St. John's University;;education;education: higher;Shanghai;Jiangsu;1908;1908;;1909;Junior;academic
+imh-11-52;Ho, P. S;PRE-US;;Instructor;Kinhua High School;;education;education: secondary;Tianjin;Hebei;1912;1912;;;Junior;academic
+imh-11-53;Ho, Yen-Sun;PRE-US;;Government Official;Ministry of Agriculture, Industry and Commerce;;government;government: central;Beijing;Hebei;1907;1907;;1908;Mid-level;official
+imh-11-55;Hsin, H. Henry;PRE-US;Assistant;Assistant Teacher;St. John's University;Preparatory Department;education;education: higher;Shanghai;Jiangsu;1907;1907;;;Junior;academic
+imh-11-56;Lee, Beiyao Tsanchi;PRE-US;;Teacher in English;Canton English Educational School;;education;education: secondary;Guangzhou;Guangdong;1901;1901;;;Mid-level;academic
+imh-11-56;Lee, Beiyao Tsanchi;PRE-US;Assistant;Teacher in Mathematics;Samshui School;;education;education: secondary;Sanshui;Guangdong;1902;1902;;;Mid-level;academic
+imh-11-56;Lee, Beiyao Tsanchi;PRE-US;;Assistant Engineer;Canton-Hankow Railway;;railway;railway: China;Guangzhou;Guangdong;1903;1903;;;Junior;technical
+imh-11-59;Lee, Hunfy D.;PRE-US;;Teacher of English;Shanghai Christian College;;education;education: higher;Shanghai;Jiangsu;1905;1905;;1906;Mid-level;academic
+imh-11-59;Lee, Hunfy D.;PRE-US;;Clerk;Shanghai Maritime Customs;;administration;administration: local;Shanghai;Jiangsu;1906;1906;;1909;Junior;administrative
+imh-11-6;Wang, Cheng-Fu;PRE-US;;Academician;Hanlin Academy;;education;education: higher;Beijing;Hebei;1910;1910;;1911;Senior;academic
+imh-11-62;Lee, Soong-Dau;PRE-US;Assistant;Assistant Instructor;St. John's University;;education;education: higher;Shanghai;Jiangsu;1909;1909;;1910;Junior;academic
+imh-11-66;Lee, Ying-Nan;PRE-US;Head;Head Draftsman;Dalny Post Office;;facility;facility: post office;Dalny;Russia;1900;1900;;1903;Senior;technical
+imh-11-66;Lee, Ying-Nan;PRE-US;;Teacher of Mathematics;Chili Provincial College;;education;education: higher;Baoding;Hebei;1903;1903;;1904;Mid-level;academic
+imh-11-66;Lee, Ying-Nan;PRE-US;Chief;Chief Surveyor;Tientsin Bureau of Public Works;;administration;administration: local;Tianjin;Hebei;1904;1904;;1905;Senior;technical
+imh-11-66;Lee, Ying-Nan;PRE-US;;Engineer;Kwangtung Department of Public Works;;administration;administration: local;Guangzhou;Guangdong;1905;1905;;1912;Mid-level;technical
+imh-11-66;Lee, Ying-Nan;PRE-US;;Teacher;Kwangtung Provincial College;;education;education: higher;Guangzhou;Guangdong;1911;1911;;1912;Mid-level;academic
+imh-11-67;Lee, Z. V;PRE-US;;Teacher in English;Sungkiang Middle School;;education;education: secondary;Songjiang;Jiangsu;1909;1909;;1910;Mid-level;academic
+imh-11-67;Lee, Z. V;PRE-US;;Teacher in English;Fu Tan College;;education;education: higher;Shanghai;Jiangsu;1910;1910;;1911;Mid-level;academic
+imh-11-67;Lee, Z. V;PRE-US;;Teacher in English;Nanyang College;;education;education: higher;Shanghai;Jiangsu;1911;1911;;1913;Mid-level;academic
+imh-11-67;Lee, Z. V;PRE-US;;Teacher in English;National Institute (Shanghai);;education;education: higher;Shanghai;Jiangsu;1911;1911;;1913;Mid-level;academic
+imh-11-67;Lee, Z. V;PRE-US;;Reporter;China Press;;media;media: periodical;Shanghai;Jiangsu;1911;1911;;1913;Mid-level;other
+imh-11-70;Li, Ming-Ho;PRE-US;;Teacher in English;Huchow Public Middle School;;education;education: secondary;Huzhou;Zhejiang;1907;1907;;1908;Mid-level;academic
+imh-11-70;Li, Ming-Ho;PRE-US;;Teacher in English;Nanking Commercial School;;education;education: vocational;Nanjing;Jiangsu;1909;1909;;;Mid-level;academic
+imh-11-75;Seng. S. T. Y;PRE-US;Assistant;Assistant Librarian;Boone University;;education;education: higher;Wuchang;Hubei;1910;1910;;1914;Junior;academic
+imh-11-76;Shen, Pao-Shen;PRE-US;;Secretary;Bureau of Foreign Affairs;;administration;administration: local;Shanghai;Jiangsu;1912;1912;;;Mid-level;administrative
+imh-11-8;Wang, Chien-Tsu;PRE-US;;Teacher;Nanyang College;;education;education: higher;Shanghai;Jiangsu;1901;1901;;1902;Mid-level;academic
+imh-11-85;Wu, C. K.;PRE-US;;Teacher;Chungying Middle School;;education;education: secondary;Nanjing;Jiangsu;1908;1908;;;Mid-level;academic
+imh-11-87;Yui, David Z. T;PRE-US;;Instructor;Boone College;;education;education: higher;Wuchang;Hubei;1905;1905;;1908;Junior;academic
+imh-11-87;Yui, David Z. T;PRE-US;;Major;Boone College;Cadet Corps;education;education: higher;Wuchang;Hubei;1905;1905;;1908;Executive;military
+imh-11-87;Yui, David Z. T;PRE-US;;Editor;Boone Educational World;;media;media: periodical;Wuchang;Hubei;1906;1906;;1908;Mid-level;other
+imh-11-90;Chin, Yushu;PRE-US;;Unknown;Alarming Bell;;media;media: periodical;Shenyang;Liaoning;1903;1903;;1906;;other
+imh-11-90;Chin, Yushu;PRE-US;;General Manager;Kwangtung Press;;media;media: daily;Shenyang;Liaoning;1905;1905;;1906;Senior;other
+imh-11-92;Chiu. Samel E.;PRE-US;;Physician;Shankiang College;;education;education: higher;Nanjing;Jiangsu;1908;1908;;1909;Mid-level;other
+imh-11-92;Chiu. Samel E.;PRE-US;;Professor of Chemistry;Boone University;;education;education: higher;Wuchang;Hubei;1909;1909;;1913;Senior;academic
+imh-11-96;Chow, Kai-Chi;PRE-US;;Teacher;Chingsha Private School;;education;education: secondary;Chingsha;;1905;1905;;1907;Mid-level;academic
+;;;;;;;;;;;;;;;;
